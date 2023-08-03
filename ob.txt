@@ -1,0 +1,4 @@
+local function black(a1, showOps)
+    return tostring(a1)
+end
+return black
